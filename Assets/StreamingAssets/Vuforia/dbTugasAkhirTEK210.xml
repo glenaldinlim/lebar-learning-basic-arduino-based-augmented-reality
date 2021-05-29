@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ldr-sensor" size="1.000000 1.000000" />
+    <ImageTarget name="ir-barrier-sensor" size="1.000000 1.000000" />
+    <ImageTarget name="flame-sensor" size="1.000000 1.000000" />
+    <ImageTarget name="arduino-uno" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>

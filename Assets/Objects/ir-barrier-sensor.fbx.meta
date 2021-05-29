@@ -1,0 +1,333 @@
+fileFormatVersion: 2
+guid: 994d0020dba66354da759ba7d7de6fdc
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Capacitor 001
+    100002: Capacitor 002
+    100004: Capacitor SMD
+    100006: Capacitor SMD.001
+    100008: Cube.001
+    100010: Cube.002
+    100012: IC Base
+    100014: IC Pin
+    100016: //RootNode
+    100018: LED Body
+    100020: LED Body.001
+    100022: LED Head
+    100024: LED Head.001
+    100026: LED SMD
+    100028: LED SMD Base
+    100030: LED SMD Base.001
+    100032: LED SMD.001
+    100034: LED Tail
+    100036: LED Tail.001
+    100038: PCB Board
+    100040: Pin
+    100042: Pin 001
+    100044: Pin.002
+    100046: Plastic Wrapper
+    100048: Resistor 001
+    100050: Resistor 002
+    100052: Resistor 003
+    100054: Resistor 004
+    100056: Resistor 005
+    100058: Resistor Base
+    100060: Resistor Base.001
+    100062: Resistor Base.002
+    100064: Resistor Base.003
+    100066: Resistor Base.004
+    100068: Resistor Tail
+    100070: Resistor Tail.001
+    100072: Resistor Tail.002
+    100074: Resistor Tail.003
+    100076: Resistor Tail.004
+    100078: Timah LED
+    100080: Timah LED.001
+    100082: Timah Pin Header
+    100084: Timah Wiper
+    100086: Timah Wiper.001
+    100088: Trimpot Base
+    100090: Wiper
+    400000: Capacitor 001
+    400002: Capacitor 002
+    400004: Capacitor SMD
+    400006: Capacitor SMD.001
+    400008: Cube.001
+    400010: Cube.002
+    400012: IC Base
+    400014: IC Pin
+    400016: //RootNode
+    400018: LED Body
+    400020: LED Body.001
+    400022: LED Head
+    400024: LED Head.001
+    400026: LED SMD
+    400028: LED SMD Base
+    400030: LED SMD Base.001
+    400032: LED SMD.001
+    400034: LED Tail
+    400036: LED Tail.001
+    400038: PCB Board
+    400040: Pin
+    400042: Pin 001
+    400044: Pin.002
+    400046: Plastic Wrapper
+    400048: Resistor 001
+    400050: Resistor 002
+    400052: Resistor 003
+    400054: Resistor 004
+    400056: Resistor 005
+    400058: Resistor Base
+    400060: Resistor Base.001
+    400062: Resistor Base.002
+    400064: Resistor Base.003
+    400066: Resistor Base.004
+    400068: Resistor Tail
+    400070: Resistor Tail.001
+    400072: Resistor Tail.002
+    400074: Resistor Tail.003
+    400076: Resistor Tail.004
+    400078: Timah LED
+    400080: Timah LED.001
+    400082: Timah Pin Header
+    400084: Timah Wiper
+    400086: Timah Wiper.001
+    400088: Trimpot Base
+    400090: Wiper
+    2100000: Cap Base
+    2100002: Cap Tail
+    2100004: Res Indicator
+    2100006: Res Base
+    2100008: Trimpot Box
+    2100010: Trimpot Wiper
+    2100012: Pin
+    2100014: IC Box
+    2100016: LED SMD Green
+    2100018: LED SMD Base
+    2100020: Pin Header Plastic
+    2100022: PCB Board
+    2100024: Timah
+    2100026: IR Recevier
+    2100028: IR Sensor
+    2300000: Capacitor 001
+    2300002: Capacitor 002
+    2300004: Capacitor SMD
+    2300006: Capacitor SMD.001
+    2300008: Cube.001
+    2300010: Cube.002
+    2300012: IC Base
+    2300014: IC Pin
+    2300016: LED Body
+    2300018: LED Body.001
+    2300020: LED Head
+    2300022: LED Head.001
+    2300024: LED SMD
+    2300026: LED SMD Base
+    2300028: LED SMD Base.001
+    2300030: LED SMD.001
+    2300032: LED Tail
+    2300034: LED Tail.001
+    2300036: PCB Board
+    2300038: Pin
+    2300040: Pin 001
+    2300042: Pin.002
+    2300044: Plastic Wrapper
+    2300046: Resistor 001
+    2300048: Resistor 002
+    2300050: Resistor 003
+    2300052: Resistor 004
+    2300054: Resistor 005
+    2300056: Resistor Base
+    2300058: Resistor Base.001
+    2300060: Resistor Base.002
+    2300062: Resistor Base.003
+    2300064: Resistor Base.004
+    2300066: Resistor Tail
+    2300068: Resistor Tail.001
+    2300070: Resistor Tail.002
+    2300072: Resistor Tail.003
+    2300074: Resistor Tail.004
+    2300076: Timah LED
+    2300078: Timah LED.001
+    2300080: Timah Pin Header
+    2300082: Timah Wiper
+    2300084: Timah Wiper.001
+    2300086: Trimpot Base
+    2300088: Wiper
+    3300000: Capacitor 001
+    3300002: Capacitor 002
+    3300004: Capacitor SMD
+    3300006: Capacitor SMD.001
+    3300008: Cube.001
+    3300010: Cube.002
+    3300012: IC Base
+    3300014: IC Pin
+    3300016: LED Body
+    3300018: LED Body.001
+    3300020: LED Head
+    3300022: LED Head.001
+    3300024: LED SMD
+    3300026: LED SMD Base
+    3300028: LED SMD Base.001
+    3300030: LED SMD.001
+    3300032: LED Tail
+    3300034: LED Tail.001
+    3300036: PCB Board
+    3300038: Pin
+    3300040: Pin 001
+    3300042: Pin.002
+    3300044: Plastic Wrapper
+    3300046: Resistor 001
+    3300048: Resistor 002
+    3300050: Resistor 003
+    3300052: Resistor 004
+    3300054: Resistor 005
+    3300056: Resistor Base
+    3300058: Resistor Base.001
+    3300060: Resistor Base.002
+    3300062: Resistor Base.003
+    3300064: Resistor Base.004
+    3300066: Resistor Tail
+    3300068: Resistor Tail.001
+    3300070: Resistor Tail.002
+    3300072: Resistor Tail.003
+    3300074: Resistor Tail.004
+    3300076: Timah LED
+    3300078: Timah LED.001
+    3300080: Timah Pin Header
+    3300082: Timah Wiper
+    3300084: Timah Wiper.001
+    3300086: Trimpot Base
+    3300088: Wiper
+    4300000: Capacitor 001
+    4300002: Capacitor SMD
+    4300004: Capacitor 002
+    4300006: Capacitor SMD.001
+    4300008: Resistor 002
+    4300010: Resistor Tail
+    4300012: Resistor Base
+    4300014: Resistor 001
+    4300016: Resistor Tail.004
+    4300018: Resistor Base.001
+    4300020: Resistor 003
+    4300022: Resistor Tail.001
+    4300024: Resistor Base.002
+    4300026: Resistor 004
+    4300028: Resistor Tail.003
+    4300030: Resistor Base.003
+    4300032: Resistor 005
+    4300034: Resistor Tail.002
+    4300036: Resistor Base.004
+    4300038: Trimpot Base
+    4300040: Wiper
+    4300042: Pin 001
+    4300044: Pin.002
+    4300046: IC Base
+    4300048: IC Pin
+    4300050: LED SMD
+    4300052: LED SMD Base
+    4300054: LED SMD.001
+    4300056: LED SMD Base.001
+    4300058: Pin
+    4300060: Plastic Wrapper
+    4300062: PCB Board
+    4300064: Timah Pin Header
+    4300066: Timah LED
+    4300068: Timah Wiper
+    4300070: Timah Wiper.001
+    4300072: Timah LED.001
+    4300074: LED Head.001
+    4300076: Cube.002
+    4300078: LED Body.001
+    4300080: LED Tail.001
+    4300082: LED Head
+    4300084: LED Tail
+    4300086: LED Body
+    4300088: Cube.001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

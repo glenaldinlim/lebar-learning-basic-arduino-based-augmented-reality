@@ -1,0 +1,717 @@
+fileFormatVersion: 2
+guid: 2664ca7658bd9da4ea1168452af40a0f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ATMEGA Chip
+    100004: ATMEGA Pins
+    100006: ATMEGA Socket
+    100008: BezierCircle
+    100010: Board
+    100012: Capacitor 1
+    100014: Capacitor 1 Circle
+    100016: Capacitor 1 Text
+    100018: Capacitor 2
+    100020: Capacitor 2 Circle
+    100022: Capacitor 2 Text
+    100024: Cube
+    100026: Cube.001
+    100028: Cube.002
+    100030: Cube.003
+    100032: Cube.004
+    100034: Cube.005
+    100036: Cube.006
+    100038: Cube.007
+    100040: Cube.008
+    100042: Cube.009
+    100044: Cube.010
+    100046: Cube.011
+    100048: Cube.012
+    100050: Cube.013
+    100052: Cube.014
+    100054: Dots
+    100056: LED L
+    100058: LED ON
+    100060: LED RX
+    100062: LED RX.001
+    100064: LED RX.002
+    100066: LED RX.003
+    100068: LED RX.004
+    100070: LED RX.005
+    100072: LED RX.006
+    100074: LED RX.007
+    100076: LED RX.008
+    100078: LED RX.009
+    100080: LED RX.010
+    100082: LED RX.011
+    100084: LED RX.012
+    100086: LED RX.013
+    100088: LED RX.014
+    100090: LED RX.015
+    100092: LED RX.016
+    100094: LED RX.017
+    100096: LED RX.018
+    100098: LED TX
+    100100: Logo Infinity
+    100102: Piezo
+    100104: Pins Analog Bank
+    100106: Pins Digital Bank 1
+    100108: Pins Digital Bank 2
+    100110: Pins Power Bank
+    100112: Plane
+    100114: Plane.001
+    100116: Plane.002
+    100118: Plane.003
+    100120: Plane.004
+    100122: Plane.005
+    100124: Plane.006
+    100126: Plane.007
+    100128: Plane.008
+    100130: Plane.009
+    100132: Plane.010
+    100134: Plane.011
+    100136: Plane.012
+    100138: Plane.013
+    100140: Plane.014
+    100142: Plane.015
+    100144: Plane.016
+    100146: Plane.017
+    100148: Plane.018
+    100150: Plane.019
+    100152: Plane.020
+    100154: Plane.021
+    100156: Plane.022
+    100158: Plane.023
+    100160: Plane.024
+    100162: Plane.025
+    100164: Plane.026
+    100166: Plane.027
+    100168: Plane.028
+    100170: Plane.029
+    100172: Plane.030
+    100174: Plane.031
+    100176: Plane.032
+    100178: Plane.033
+    100180: Plane.034
+    100182: Plane.035
+    100184: Plane.036
+    100186: Plane.037
+    100188: Plane.038
+    100190: Plane.039
+    100192: Plane.040
+    100194: Power
+    100196: Text
+    100198: Text Analog
+    100200: Text Analog Bank
+    100202: Text Arduino.cc
+    100204: Text Digital
+    100206: Text Digital Bank 1
+    100208: Text Digital Bank 2
+    100210: Text LED L
+    100212: Text LED ON
+    100214: Text LED RX
+    100216: Text LED TX
+    100218: Text Logo Arduino
+    100220: Text Logo Minus
+    100222: Text Logo Plus
+    100224: Text Made In Italy
+    100226: Text Power
+    100228: Text Power Bank
+    100230: Text Uno
+    100232: Text.001
+    100234: Text.002
+    100236: Text.003
+    100238: Text.004
+    100240: Text.014
+    100242: Text.018
+    100244: USB
+    400000: //RootNode
+    400002: ATMEGA Chip
+    400004: ATMEGA Pins
+    400006: ATMEGA Socket
+    400008: BezierCircle
+    400010: Board
+    400012: Capacitor 1
+    400014: Capacitor 1 Circle
+    400016: Capacitor 1 Text
+    400018: Capacitor 2
+    400020: Capacitor 2 Circle
+    400022: Capacitor 2 Text
+    400024: Cube
+    400026: Cube.001
+    400028: Cube.002
+    400030: Cube.003
+    400032: Cube.004
+    400034: Cube.005
+    400036: Cube.006
+    400038: Cube.007
+    400040: Cube.008
+    400042: Cube.009
+    400044: Cube.010
+    400046: Cube.011
+    400048: Cube.012
+    400050: Cube.013
+    400052: Cube.014
+    400054: Dots
+    400056: LED L
+    400058: LED ON
+    400060: LED RX
+    400062: LED RX.001
+    400064: LED RX.002
+    400066: LED RX.003
+    400068: LED RX.004
+    400070: LED RX.005
+    400072: LED RX.006
+    400074: LED RX.007
+    400076: LED RX.008
+    400078: LED RX.009
+    400080: LED RX.010
+    400082: LED RX.011
+    400084: LED RX.012
+    400086: LED RX.013
+    400088: LED RX.014
+    400090: LED RX.015
+    400092: LED RX.016
+    400094: LED RX.017
+    400096: LED RX.018
+    400098: LED TX
+    400100: Logo Infinity
+    400102: Piezo
+    400104: Pins Analog Bank
+    400106: Pins Digital Bank 1
+    400108: Pins Digital Bank 2
+    400110: Pins Power Bank
+    400112: Plane
+    400114: Plane.001
+    400116: Plane.002
+    400118: Plane.003
+    400120: Plane.004
+    400122: Plane.005
+    400124: Plane.006
+    400126: Plane.007
+    400128: Plane.008
+    400130: Plane.009
+    400132: Plane.010
+    400134: Plane.011
+    400136: Plane.012
+    400138: Plane.013
+    400140: Plane.014
+    400142: Plane.015
+    400144: Plane.016
+    400146: Plane.017
+    400148: Plane.018
+    400150: Plane.019
+    400152: Plane.020
+    400154: Plane.021
+    400156: Plane.022
+    400158: Plane.023
+    400160: Plane.024
+    400162: Plane.025
+    400164: Plane.026
+    400166: Plane.027
+    400168: Plane.028
+    400170: Plane.029
+    400172: Plane.030
+    400174: Plane.031
+    400176: Plane.032
+    400178: Plane.033
+    400180: Plane.034
+    400182: Plane.035
+    400184: Plane.036
+    400186: Plane.037
+    400188: Plane.038
+    400190: Plane.039
+    400192: Plane.040
+    400194: Power
+    400196: Text
+    400198: Text Analog
+    400200: Text Analog Bank
+    400202: Text Arduino.cc
+    400204: Text Digital
+    400206: Text Digital Bank 1
+    400208: Text Digital Bank 2
+    400210: Text LED L
+    400212: Text LED ON
+    400214: Text LED RX
+    400216: Text LED TX
+    400218: Text Logo Arduino
+    400220: Text Logo Minus
+    400222: Text Logo Plus
+    400224: Text Made In Italy
+    400226: Text Power
+    400228: Text Power Bank
+    400230: Text Uno
+    400232: Text.001
+    400234: Text.002
+    400236: Text.003
+    400238: Text.004
+    400240: Text.014
+    400242: Text.018
+    400244: USB
+    2100000: ShineyMatLight
+    2100002: Resistor
+    2100004: Material.005
+    2100006: ShineyMat
+    2100008: BlackPlastic
+    2100010: TanPlastic
+    2100012: ATMEGA
+    2100014: Text
+    2100016: Material.003
+    2100018: Material.006
+    2100020: Material.001
+    2100022: Material
+    2100024: BoardMat
+    2300000: ATMEGA Chip
+    2300002: ATMEGA Pins
+    2300004: ATMEGA Socket
+    2300006: BezierCircle
+    2300008: Board
+    2300010: Capacitor 1
+    2300012: Capacitor 1 Circle
+    2300014: Capacitor 1 Text
+    2300016: Capacitor 2
+    2300018: Capacitor 2 Circle
+    2300020: Capacitor 2 Text
+    2300022: Cube
+    2300024: Cube.001
+    2300026: Cube.002
+    2300028: Cube.003
+    2300030: Cube.004
+    2300032: Cube.005
+    2300034: Cube.006
+    2300036: Cube.007
+    2300038: Cube.008
+    2300040: Cube.009
+    2300042: Cube.010
+    2300044: Cube.011
+    2300046: Cube.012
+    2300048: Cube.013
+    2300050: Cube.014
+    2300052: Dots
+    2300054: LED L
+    2300056: LED ON
+    2300058: LED RX
+    2300060: LED RX.001
+    2300062: LED RX.002
+    2300064: LED RX.003
+    2300066: LED RX.004
+    2300068: LED RX.005
+    2300070: LED RX.006
+    2300072: LED RX.007
+    2300074: LED RX.008
+    2300076: LED RX.009
+    2300078: LED RX.010
+    2300080: LED RX.011
+    2300082: LED RX.012
+    2300084: LED RX.013
+    2300086: LED RX.014
+    2300088: LED RX.015
+    2300090: LED RX.016
+    2300092: LED RX.017
+    2300094: LED RX.018
+    2300096: LED TX
+    2300098: Logo Infinity
+    2300100: Piezo
+    2300102: Pins Analog Bank
+    2300104: Pins Digital Bank 1
+    2300106: Pins Digital Bank 2
+    2300108: Pins Power Bank
+    2300110: Plane
+    2300112: Plane.001
+    2300114: Plane.002
+    2300116: Plane.003
+    2300118: Plane.004
+    2300120: Plane.005
+    2300122: Plane.006
+    2300124: Plane.007
+    2300126: Plane.008
+    2300128: Plane.009
+    2300130: Plane.010
+    2300132: Plane.011
+    2300134: Plane.012
+    2300136: Plane.013
+    2300138: Plane.014
+    2300140: Plane.015
+    2300142: Plane.016
+    2300144: Plane.017
+    2300146: Plane.018
+    2300148: Plane.019
+    2300150: Plane.020
+    2300152: Plane.021
+    2300154: Plane.022
+    2300156: Plane.023
+    2300158: Plane.024
+    2300160: Plane.025
+    2300162: Plane.026
+    2300164: Plane.027
+    2300166: Plane.028
+    2300168: Plane.029
+    2300170: Plane.030
+    2300172: Plane.031
+    2300174: Plane.032
+    2300176: Plane.033
+    2300178: Plane.034
+    2300180: Plane.035
+    2300182: Plane.036
+    2300184: Plane.037
+    2300186: Plane.038
+    2300188: Plane.039
+    2300190: Plane.040
+    2300192: Power
+    2300194: Text
+    2300196: Text Analog
+    2300198: Text Analog Bank
+    2300200: Text Arduino.cc
+    2300202: Text Digital
+    2300204: Text Digital Bank 1
+    2300206: Text Digital Bank 2
+    2300208: Text LED L
+    2300210: Text LED ON
+    2300212: Text LED RX
+    2300214: Text LED TX
+    2300216: Text Logo Arduino
+    2300218: Text Logo Minus
+    2300220: Text Logo Plus
+    2300222: Text Made In Italy
+    2300224: Text Power
+    2300226: Text Power Bank
+    2300228: Text Uno
+    2300230: Text.001
+    2300232: Text.002
+    2300234: Text.003
+    2300236: Text.004
+    2300238: Text.014
+    2300240: Text.018
+    2300242: USB
+    3300000: ATMEGA Chip
+    3300002: ATMEGA Pins
+    3300004: ATMEGA Socket
+    3300006: BezierCircle
+    3300008: Board
+    3300010: Capacitor 1
+    3300012: Capacitor 1 Circle
+    3300014: Capacitor 1 Text
+    3300016: Capacitor 2
+    3300018: Capacitor 2 Circle
+    3300020: Capacitor 2 Text
+    3300022: Cube
+    3300024: Cube.001
+    3300026: Cube.002
+    3300028: Cube.003
+    3300030: Cube.004
+    3300032: Cube.005
+    3300034: Cube.006
+    3300036: Cube.007
+    3300038: Cube.008
+    3300040: Cube.009
+    3300042: Cube.010
+    3300044: Cube.011
+    3300046: Cube.012
+    3300048: Cube.013
+    3300050: Cube.014
+    3300052: Dots
+    3300054: LED L
+    3300056: LED ON
+    3300058: LED RX
+    3300060: LED RX.001
+    3300062: LED RX.002
+    3300064: LED RX.003
+    3300066: LED RX.004
+    3300068: LED RX.005
+    3300070: LED RX.006
+    3300072: LED RX.007
+    3300074: LED RX.008
+    3300076: LED RX.009
+    3300078: LED RX.010
+    3300080: LED RX.011
+    3300082: LED RX.012
+    3300084: LED RX.013
+    3300086: LED RX.014
+    3300088: LED RX.015
+    3300090: LED RX.016
+    3300092: LED RX.017
+    3300094: LED RX.018
+    3300096: LED TX
+    3300098: Logo Infinity
+    3300100: Piezo
+    3300102: Pins Analog Bank
+    3300104: Pins Digital Bank 1
+    3300106: Pins Digital Bank 2
+    3300108: Pins Power Bank
+    3300110: Plane
+    3300112: Plane.001
+    3300114: Plane.002
+    3300116: Plane.003
+    3300118: Plane.004
+    3300120: Plane.005
+    3300122: Plane.006
+    3300124: Plane.007
+    3300126: Plane.008
+    3300128: Plane.009
+    3300130: Plane.010
+    3300132: Plane.011
+    3300134: Plane.012
+    3300136: Plane.013
+    3300138: Plane.014
+    3300140: Plane.015
+    3300142: Plane.016
+    3300144: Plane.017
+    3300146: Plane.018
+    3300148: Plane.019
+    3300150: Plane.020
+    3300152: Plane.021
+    3300154: Plane.022
+    3300156: Plane.023
+    3300158: Plane.024
+    3300160: Plane.025
+    3300162: Plane.026
+    3300164: Plane.027
+    3300166: Plane.028
+    3300168: Plane.029
+    3300170: Plane.030
+    3300172: Plane.031
+    3300174: Plane.032
+    3300176: Plane.033
+    3300178: Plane.034
+    3300180: Plane.035
+    3300182: Plane.036
+    3300184: Plane.037
+    3300186: Plane.038
+    3300188: Plane.039
+    3300190: Plane.040
+    3300192: Power
+    3300194: Text
+    3300196: Text Analog
+    3300198: Text Analog Bank
+    3300200: Text Arduino.cc
+    3300202: Text Digital
+    3300204: Text Digital Bank 1
+    3300206: Text Digital Bank 2
+    3300208: Text LED L
+    3300210: Text LED ON
+    3300212: Text LED RX
+    3300214: Text LED TX
+    3300216: Text Logo Arduino
+    3300218: Text Logo Minus
+    3300220: Text Logo Plus
+    3300222: Text Made In Italy
+    3300224: Text Power
+    3300226: Text Power Bank
+    3300228: Text Uno
+    3300230: Text.001
+    3300232: Text.002
+    3300234: Text.003
+    3300236: Text.004
+    3300238: Text.014
+    3300240: Text.018
+    3300242: USB
+    4300000: Plane.040
+    4300002: Plane.039
+    4300004: Plane.038
+    4300006: Plane.037
+    4300008: LED RX.018
+    4300010: Cube.014
+    4300012: Plane.036
+    4300014: Plane.035
+    4300016: Plane.034
+    4300018: Plane.033
+    4300020: Plane.032
+    4300022: Plane.031
+    4300024: Plane.030
+    4300026: Plane.029
+    4300028: Plane.028
+    4300030: Plane.027
+    4300032: Plane.026
+    4300034: Plane.025
+    4300036: Plane.024
+    4300038: Plane.023
+    4300040: Plane.022
+    4300042: Plane.021
+    4300044: Plane.020
+    4300046: Plane.019
+    4300048: Plane.018
+    4300050: Plane.017
+    4300052: Plane.016
+    4300054: Plane.015
+    4300056: LED RX.017
+    4300058: Cube.013
+    4300060: Cube.012
+    4300062: LED RX.016
+    4300064: LED RX.015
+    4300066: Cube.011
+    4300068: LED RX.014
+    4300070: Cube.010
+    4300072: Cube.009
+    4300074: LED RX.013
+    4300076: LED RX.012
+    4300078: Cube.008
+    4300080: Cube.007
+    4300082: LED RX.011
+    4300084: LED RX.010
+    4300086: Cube.006
+    4300088: Cube.005
+    4300090: LED RX.009
+    4300092: LED RX.008
+    4300094: Cube.004
+    4300096: Cube.003
+    4300098: LED RX.007
+    4300100: LED RX.006
+    4300102: Cube.002
+    4300104: Cube.001
+    4300106: LED RX.005
+    4300108: Plane.014
+    4300110: Plane.013
+    4300112: Plane.012
+    4300114: Plane.011
+    4300116: Plane.010
+    4300118: Plane.009
+    4300120: Plane.008
+    4300122: Plane.007
+    4300124: Cube
+    4300126: Text.004
+    4300128: Text.003
+    4300130: Plane.006
+    4300132: Plane.005
+    4300134: Plane.004
+    4300136: Plane.003
+    4300138: Plane.002
+    4300140: Plane.001
+    4300142: Plane
+    4300144: Text.002
+    4300146: Text.001
+    4300148: Text
+    4300150: LED RX.004
+    4300152: LED RX.003
+    4300154: LED RX.002
+    4300156: LED RX.001
+    4300158: BezierCircle
+    4300160: Dots
+    4300162: Capacitor 2 Circle
+    4300164: Capacitor 1 Circle
+    4300166: Capacitor 2 Text
+    4300168: Capacitor 1 Text
+    4300170: Capacitor 2
+    4300172: Piezo
+    4300174: Capacitor 1
+    4300176: Logo Infinity
+    4300178: Text.018
+    4300180: Text Logo Plus
+    4300182: Text Logo Minus
+    4300184: Text Logo Arduino
+    4300186: Text.014
+    4300188: Text Uno
+    4300190: Text LED L
+    4300192: Text LED TX
+    4300194: Text LED RX
+    4300196: Text LED ON
+    4300198: Text Digital
+    4300200: Text Arduino.cc
+    4300202: Text Analog
+    4300204: Text Power
+    4300206: Text Power Bank
+    4300208: Text Analog Bank
+    4300210: Text Made In Italy
+    4300212: Text Digital Bank 1
+    4300214: Text Digital Bank 2
+    4300216: LED ON
+    4300218: LED RX
+    4300220: LED TX
+    4300222: LED L
+    4300224: Power
+    4300226: ATMEGA Pins
+    4300228: ATMEGA Chip
+    4300230: ATMEGA Socket
+    4300232: Pins Digital Bank 1
+    4300234: Pins Digital Bank 2
+    4300236: Pins Analog Bank
+    4300238: Pins Power Bank
+    4300240: USB
+    4300242: Board
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
